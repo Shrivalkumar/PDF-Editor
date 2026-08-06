@@ -4,7 +4,7 @@
 
 `pdfBhai` is a client-side WebAssembly PDF creation and editing platform built with **React**, **Tailwind CSS**, and a **C++20 PDF Engine** compiled directly into WebAssembly (`.wasm`).
 
-Because the C++ engine runs 100% inside your browser's WebAssembly runtime, document processing is zero-latency, private, and requires **no external backend server**.
+Because the C++ engine runs 100% inside your browser's WebAssembly runtime, document processing is zero-latency, private, and requires **no external backend server** .
 
 ---
 
