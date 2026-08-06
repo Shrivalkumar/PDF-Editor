@@ -10,7 +10,7 @@ Because the C++ engine runs 100% inside your browser's WebAssembly runtime, docu
 
 ## ✨ Features
 
-- ⚡ **WebAssembly C++ Core**: Pure C++20 PDF generation engine running directly in browser memory via Emscripten.
+- ⚡ **WebAssembly C++ Core** : Pure C++20 PDF generation engine running directly in browser memory via Emscripten.
 - 🖼️ **JPEG & Image Ingestion**: Drag-and-drop single or multi JPEG images with automatic dimension extraction.
 - 📄 **Blank Page Support**: Generate custom A4 blank pages and mix them with image pages.
 - 🎯 **Interactive Point-and-Click Canvas**: Click anywhere on an image canvas to place text overlays with exact Cartesian PDF coordinate mapping.
